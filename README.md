@@ -2,6 +2,7 @@
 <div align="center"> 
  
 ###  :wave: Welcome my github profile !
+ My name is yuyeon. I'm AI Developer 
  
 
  <br/>
@@ -29,6 +30,6 @@
   <br/>
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyeon-choi&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+<!--  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yuyeon-choi&layout=compact&theme=radical&langs_count=5)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
