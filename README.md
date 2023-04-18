@@ -1,8 +1,13 @@
 ### Hi there 👋
 
-##Tech Stack
+## Tech Stack   
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/python-3776AB?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/pytorch-EE4C2C?style=flat&logo=TypeScript&logoColor=white"/>
+
+## Statistic   
+<img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=TypeScript&logoColor=white"/>
+
 <!--
 **yuyeon-choi/yuyeon-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
