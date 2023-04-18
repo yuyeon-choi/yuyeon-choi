@@ -9,8 +9,15 @@
 <br>
 <div align=center><h1>📚 Statictic Skill</h1></div>
 <div align=center>
-<img src="https://img.shields.io/badge/r-276DC3?style=flat&logo=TypeScript&logoColor=white"/>
+<img src="https://img.shields.io/badge/r-276DC3?style=for-the-badge&logo=python&logoColor=white">
+
 <br>
+  
+<div align=center> 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
+<br>  
+  
+  
 <!--
 **yuyeon-choi/yuyeon-choi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
