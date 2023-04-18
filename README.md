@@ -1,5 +1,10 @@
-### Hi there 👋
+<!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62) -->
+  
+####  :wave: Welcome my github profile !
 
+ <br/>
+ <br/>
+ 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>  
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
@@ -19,6 +24,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  
   <br/>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
