@@ -19,8 +19,7 @@
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=R&logoColor=white">
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
-  <br>
-  </div>
-
-    ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
+  <br/>
+  <br/>
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
 
