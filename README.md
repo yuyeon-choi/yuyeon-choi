@@ -1,8 +1,7 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=cylinder&color=000000&height=150&section=header&text=893107&fontColor=ffffff&fontSize=70&animation=fadeIn&fontAlignY=55&desc=%20&descAlignY=62&descAlign=62) -->
 <div align="center"> 
  
-###  :wave: Welcome my github profile !
- My name is yuyeon. I'm AI Developer 
+###  🙋 Welcome my github profile ! My name is yuyeon. 
  <br/>
 
 <div align=center><h1>📚 STACKS</h1></div>
@@ -38,11 +37,11 @@
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical"></img>
      <div align="left" marginright="50px" >
         <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        Currently Looking for Open Positions with</h3>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ AI Engineer</p>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Engineer</p>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Scientist</p>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Software Engineer</p>
+        Who Am I</h3>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎓 I majored in computer science and Big Data Management Engineering.</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📝 I recently completed the MS AI School.</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ I hope to be an AI Engineer and Data Scientist.</p>
+<!--         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📝 Software Engineer</p> -->
      </div>
   </div>  
 
