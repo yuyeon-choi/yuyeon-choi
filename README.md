@@ -5,7 +5,6 @@
  My name is yuyeon. I'm AI Developer 
  <br/>
 
- 
 <div align=center><h1>📚 STACKS</h1></div>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white"> 
@@ -32,6 +31,7 @@
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical"></img>
  </div>
+ 
  -------------
  
 <div align="center">
