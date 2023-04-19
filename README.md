@@ -28,6 +28,16 @@
   <br/>
 
   ![yuyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
-
-
+ ------
+<div align="center">
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeYounKwon&layout=compact"></img>
+     <div align="left" marginright="50px" >
+        <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
+        Currently Looking for Open Positions with</h3>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ AI Engineer</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Engineer</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Data Scientist</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ Software Engineer</p>
+     </div>
+  </div>  
 
