@@ -27,7 +27,7 @@
 
   <br/>
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
+  ![yuyeon's GitHub stats](https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical)
 
 
 
