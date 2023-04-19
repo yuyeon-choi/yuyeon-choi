@@ -30,9 +30,10 @@
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical"></img>
-  
-  </div>
 </div> 
+
+ <br/>
+ 
  -------------
  
 <div align="center">
