@@ -30,12 +30,13 @@
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical"></img>
- </div>
- 
+  
+  </div>
+</div> 
  -------------
  
 <div align="center">
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeYounKwon&layout=compact"></img>
+     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TaeYounKwon&layout=radical"></img>
      <div align="left" marginright="50px" >
         <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
         Currently Looking for Open Positions with</h3>
