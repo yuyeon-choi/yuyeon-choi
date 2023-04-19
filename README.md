@@ -37,9 +37,10 @@
      <img align="left" src="https://github-readme-stats.vercel.app/api?username=yuyeon-choi&show_icons=true&theme=radical"></img>
      <div align="left" marginright="50px" >
         <h3>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp
-        Who Am I</h3>
+        Who Am I :rocket: </h3>
         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp🎓 I majored in computer science and Big Data Management Engineering.</p>
-        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📝 I recently completed the MS AI School.</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp    Big Data Management Engineering.</p>
+        <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📚 I recently completed the MS AI School.</p>
         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp⭐ I hope to be an AI Engineer and Data Scientist.</p>
 <!--         <p> &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp📝 Software Engineer</p> -->
      </div>
